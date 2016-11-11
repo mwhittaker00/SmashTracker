@@ -1,5 +1,7 @@
 # SmashTracker
-A web tool where players could track matches and rankings for various video games
+A web tool where players could track matches and rankings for various video games.
+
+Written in PHP using a homebrewed "framework" of sorts ot make managing the project's growth easier.
 
 Features:
 - Custom human verification input where user matched a character's name to that character's portrait.
